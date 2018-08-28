@@ -1,4 +1,6 @@
-[4.3]潜水艇探索攻略(参考了之前的4.0飞空艇攻略)(待更新)
+[4.3]潜水艇探索攻略(待更新)(吾辈由于现实原因A游戏所以有人想接锅的话就clone一下这个项目吧)
+
+===[b][url=https://github.com/NEKOUSTC/underseaboat][color=red][size=200%]项目地址[/size][/color][/url][/b]===
 
 ===[b][color=orangered][size=130%]前言[/size][/color][/b]===
 随着国服[color=blue]4.2[/color]版本的到来，部队工坊也开放了[color=orangered]潜水艇探索[/color]，同时由于住宅区的增开，很多部队也有了自己的新房子，可以开启部队工坊进行合建与探索了，为了帮助新老玩家对这一游戏内容有更全面的认识，参考之前夜樱大大的[url=http://bbs.ngacn.cc/read.php?tid=13020127][color=royalblue]4.0飞空艇攻略[/color][/url][del][color=silver]没错，格式也一起参考了[/color][/del]写了这篇攻略。
@@ -108,7 +110,7 @@
 除此之外你已经对[color=orangered]潜水艇探险[/color]这一系统有了相当的了解，那么你完全可以参考下面的潜水艇产出表来计划自己以后的探险。
 
 ===[b][size=130%][color=royalblue]21~30级[/color][/size][/b]===
-[del]4.3了！快去肝鲶鱼蛮族！[/del]本版本更新了第三套潜水艇部件，开放了第三个潜水艇栏位，开放了五个新的探索点，潜水艇的等级上限也提高到了30级，这个阶段首要任务就是探索未知，升级潜水艇，努力摸鱼。
+[del]4.3了！快去肝鲶鱼蛮族！[/del]本版本更新了第三套潜水艇部件，开放了第三个潜水艇栏位，开放了五个新的探索点，潜水艇的等级上限也提高到了30级，这个阶段首要任务就是探索未知，升级潜水艇[del]，努力摸鱼[/del]。
 
 ===[b][size=130%][color=purple]31~49级[/color][/size][/b]===
 =待更新=
@@ -118,12 +120,12 @@
 你已经非常了解潜水艇系统了，相信你已经可以自己规划好潜水艇的每日工作！[del]完全复读[/del]
 
 ===[b][size=130%][color=skyblue]海底探险地图[/color][/size][/b]===
-[collapse][img]http://img.ngacn.cc/attachments/mon_201802/14/-7s28Q5-g4ljK2nT3cSq6-j0.jpg[/img]
+[collapse][img]./mon_201808/28/-7s28Q5-h4laZ2eT3cSq6-j0.png[/img]
 
 [/collapse]
 
 ===[b][size=130%][color=red]海域物资及各种阈值[/color][/size][/b]===
-[collapse=本列表由4.2公式书翻译所得][img]./mon_201806/09/-7s28Q5-1ifZrT3cSv6-m2.png[/img]
+[collapse=本列表由4.2公式书翻译所得][url=https://github.com/NEKOUSTC/underseaboat/blob/master/潜水艇攻略文本存档库/4.3/潜水艇探索阈值及收获列表(v1.1).xlsx]请查看本文档的第一个工作表：探索阈值及收获列表[/url]
 
 [/collapse]
 
@@ -241,9 +243,7 @@
 [/collapse]
 
 ===[b][size=130%][color=deeppink]推荐配装[/color][/size][/b]===
-[collapse=点击展开图片][img]./mon_201806/25/-7s28Q5-9112ZdT3cSv6-m2.png[/img]
-
-[/collapse]
+[url=https://github.com/NEKOUSTC/underseaboat/blob/master/潜水艇攻略文本存档库/4.3/潜水艇探索阈值及收获列表(v1.1).xlsx]请查看本文档的第三个工作表：属性对比[/url]
 
 
 ===[b][size=130%][color=silver]修理[/color][/size][/b]===
